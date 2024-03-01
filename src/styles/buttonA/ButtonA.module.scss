@@ -1,0 +1,19 @@
+@import "../partials/colors";
+
+.btn {
+    background-color: $buttona-color;
+    color: $black-color;
+    border: none;
+    padding: 1rem;
+    border-radius: 0.7rem;
+    font-weight: bolder;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: $prymary-color;
+    background-color: $buttonahover-color;
+    transform: translateY(-7px);
+    transition-duration: 0.8s;
+}

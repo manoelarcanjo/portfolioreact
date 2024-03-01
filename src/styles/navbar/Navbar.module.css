@@ -10,4 +10,7 @@
 }
 .navbar li {
   margin: 0.8rem;
+}
+.navbar a {
+  color: #FFFFFF !important;
 }/*# sourceMappingURL=Navbar.module.css.map */

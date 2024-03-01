@@ -1,8 +1,8 @@
 function Skills() {
     return(
-        <div>
+        <section id="Skills">
             <h1>Habilidades</h1>
-        </div>
+        </section>
     )
 }
 
