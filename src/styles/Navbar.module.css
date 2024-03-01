@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.navbar ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+.navbar li {
+  margin: 0.8rem;
+}/*# sourceMappingURL=Navbar.module.css.map */
