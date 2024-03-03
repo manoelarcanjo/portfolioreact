@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+.footer ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 1.5rem;
+}
+.footer a {
+  color: #FFFFFF !important;
+}
+.footer li {
+  margin-left: 1rem;
+}
+.footer p {
+  margin: 1.5rem;
+}/*# sourceMappingURL=Footer.module.css.map */

@@ -7,6 +7,7 @@ function Projects() {
     return(
         <section className={styles.projects} id="Projects">
             <h1>Projetos</h1>
+
             <Card
             img= {lpdnc}
             title="Landing Page - DNC"
@@ -24,10 +25,11 @@ function Projects() {
             repo="https://github.com/manoelarcanjo/portfolioreact"
             site="https://portfolioreact-umber.vercel.app/"            
             />
-            <ButtonB text="Acesse meu repositório" link="https://code-by-arcanjo.vercel.app/"
-            />
 
+            <ButtonB id="button" text="Acesse meu repositório" link="https://code-by-arcanjo.vercel.app/"/>
+            
         </section>
+
     )
 }
 
