@@ -1,0 +1,24 @@
+.card {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+.card img {
+  width: 31rem;
+}
+.card img:hover {
+  transform: translateY(-10px);
+  cursor: pointer;
+  transition-duration: 0.8s;
+}
+.card section {
+  background-color: rgba(1, 9, 28, 0.75);
+  padding: 1.2rem;
+  border-radius: 1.3rem;
+  width: 31rem;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  margin-left: 25px;
+}
+.card h3 {
+  font-size: 1.3rem;
+}/*# sourceMappingURL=Card.module.css.map */

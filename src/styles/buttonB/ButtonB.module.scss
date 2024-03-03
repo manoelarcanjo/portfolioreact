@@ -1,8 +1,9 @@
 @import "../partials/colors";
 
 .btnb {
-    color: $black-color;
-    border: $prymary-color solid 2px;
+    color: $buttona-color;
+    border: $buttona-color solid 2px;
+    background-color: transparent;
     padding: 1rem;
     border-radius: 0.7rem;
     font-weight: bolder;
@@ -11,8 +12,8 @@
 }
 
 .btnb:hover {
-    background-color: transparent;
     color: $prymary-color;
+    border: $prymary-color solid 2px;
     background-color: $buttonahover-color;
     transform: translateY(-7px);
     transition-duration: 0.8s;

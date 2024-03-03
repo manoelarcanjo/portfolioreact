@@ -12,11 +12,11 @@ function Skills() {
             <p>Conheça um pouco das minhas principais habilidades e conhecimentos.</p>
 
             <div>
-                <img src={javascript} alt="" />
-                <img src={html} alt="" />
-                <img src={css} alt="" />
-                <img src={react} alt="" />
-                <img src={typecript} alt=""/>
+                <img src={javascript} alt="Logo JavaScript" />
+                <img src={html} alt="Logo HTML" />
+                <img src={css} alt="Logo CSS" />
+                <img src={react} alt="Logo ReactJS" />
+                <img src={typecript} alt="Logo TypeScript"/>
             </div>
         </section>
     )

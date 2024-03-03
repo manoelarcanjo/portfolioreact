@@ -1,6 +1,7 @@
 .btnb {
-  color: #000000;
-  border: #FFFFFF solid 2px;
+  color: #74FAC0;
+  border: #74FAC0 solid 2px;
+  background-color: transparent;
   padding: 1rem;
   border-radius: 0.7rem;
   font-weight: bolder;
@@ -9,8 +10,8 @@
 }
 
 .btnb:hover {
-  background-color: transparent;
   color: #FFFFFF;
+  border: #FFFFFF solid 2px;
   background-color: #010b2b;
   transform: translateY(-7px);
   transition-duration: 0.8s;
