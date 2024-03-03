@@ -12,8 +12,8 @@ function Presentation() {
             Estou sempre em busca de desafios e oportunidades de aprendizado <br />
             e crescimento na área de desenvolvimento web</p>
 
-            <ButtonA link='https://github.com/manoelarcanjo' text='Conecte-se comigo!'/>
-           
+            <ButtonA link='https://github.com/manoelarcanjo' text='Conecte-se comigo!'/>            
+
         </section>
     )
 }

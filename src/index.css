@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
 body {
   background-image: url(assets/img/background.svg);
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
   line-height: 1.5;
   font-weight: 400;
   color-scheme: light dark;
